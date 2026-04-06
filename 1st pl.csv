@@ -1,0 +1,809 @@
+﻿Name,Age,Position,MarketValue,Fee,Fee_Cleaned
+Martín Zubimendi,26,Defensive Midfield,DM,€70.00m,70
+Eberechi Eze,27,Attacking Midfield,AM,€69.30m,69.3
+Viktor Gyökeres,27,Centre-Forward,CF,€66.90m,66.9
+Noni Madueke,23,Right Winger,RW,€56.00m,56
+Cristhian Mosquera,21,Centre-Back,CB,€15.00m,15
+Christian Nørgaard,31,Defensive Midfield,DM,€11.60m,11.6
+Kepa Arrizabalaga,30,Goalkeeper,GK,€5.80m,5.8
+Piero Hincapié,23,Centre-Back,CB,loan transfer,0
+Fábio Vieira,25,Attacking Midfield,AM,End of loan30/06/2025,End of loan30/06/2025
+Albert Sambi Lokonga,25,Central Midfield,CM,End of loan30/06/2025,End of loan30/06/2025
+Oleksandr Zinchenko,29,Left-Back,LB,End of loan31/01/2026,End of loan31/01/2026
+Nuno Tavares,25,Left-Back,LB,End of loan30/06/2025,End of loan30/06/2025
+Karl Hein,23,Goalkeeper,GK,End of loan30/06/2025,End of loan30/06/2025
+Reiss Nelson,25,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Marquinhos,22,Right Winger,RW,End of loan30/06/2025,End of loan30/06/2025
+Nuno Tavares,25,Left-Back,LB,€6.00m,6
+Marquinhos,22,Right Winger,RW,€3.00m,3
+Jakub Kiwior,25,Centre-Back,CB,Loan fee:€2.00m,Loan fee:2.00
+Oleksandr Zinchenko,29,Left-Back,LB,€1.50m,1.5
+Ethan Nwaneri,18,Attacking Midfield,AM,Loan fee:€1.50m,Loan fee:1.50
+Albert Sambi Lokonga,25,Central Midfield,CM,€300k,300
+Kieran Tierney,28,Left-Back,LB,free transfer,0
+Jorginho,33,Defensive Midfield,DM,free transfer,0
+Thomas Partey,32,Defensive Midfield,DM,free transfer,0
+Reiss Nelson,25,Left Winger,LW,loan transfer,0
+Karl Hein,23,Goalkeeper,GK,loan transfer,0
+Oleksandr Zinchenko,28,Left-Back,LB,loan transfer,0
+Fábio Vieira,25,Attacking Midfield,AM,loan transfer,0
+Takehiro Tomiyasu,26,Right-Back,RB,-,-
+Neto,35,Goalkeeper,GK,End of loan30/06/2025,End of loan30/06/2025
+Raheem Sterling,30,Right Winger,RW,End of loan30/06/2025,End of loan30/06/2025
+Evann Guessand,24,Right Winger,RW,€30.00m,30
+Tammy Abraham,28,Centre-Forward,CF,€21.00m,21
+Alysson,19,Right Winger,RW,€10.00m,10
+Yasin Özcan,19,Left-Back,LB,€7.00m,7
+Douglas Luiz,27,Central Midfield,CM,Loan fee:€2.00m,Loan fee:2.00
+Marco Bizot,34,Goalkeeper,GK,€500k,500
+Victor Lindelöf,31,Centre-Back,CB,free transfer,0
+Jadon Sancho,25,Left Winger,LW,loan transfer,0
+Harvey Elliott,22,Attacking Midfield,AM,loan transfer,0
+Philippe Coutinho,33,Attacking Midfield,AM,End of loan30/06/2025,End of loan30/06/2025
+Filip Marschall,22,Goalkeeper,GK,End of loan30/06/2025,End of loan30/06/2025
+Kaine Kesler-Hayden,22,Right-Back,RB,End of loan30/06/2025,End of loan30/06/2025
+Yasin Özcan,19,Left-Back,LB,End of loan27/01/2026,End of loan27/01/2026
+Álex Moreno,32,Left-Back,LB,End of loan30/06/2025,End of loan30/06/2025
+Enzo Barrenechea,24,Defensive Midfield,DM,End of loan30/06/2025,End of loan30/06/2025
+Leon Bailey,28,Right Winger,RW,End of loan21/01/2026,End of loan21/01/2026
+Leander Dendoncker,30,Defensive Midfield,DM,End of loan30/06/2025,End of loan30/06/2025
+Lewis Dobbin,22,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Emiliano Buendía,28,Attacking Midfield,AM,End of loan30/06/2025,End of loan30/06/2025
+Joe Gauci,24,Goalkeeper,GK,End of loan30/06/2025,End of loan30/06/2025
+Samuel Iling-Junior,22,Left Midfield,LM,End of loan02/02/2026,End of loan02/02/2026
+Samuel Iling-Junior,21,Left Midfield,LM,End of loan30/06/2025,End of loan30/06/2025
+Lewis Dobbin,23,Left Winger,LW,End of loan31/05/2026,End of loan31/05/2026
+Jacob Ramsey,24,Central Midfield,CM,€45.15m,45.15
+Kaine Kesler-Hayden,22,Right-Back,RB,€4.00m,4
+Enzo Barrenechea,24,Defensive Midfield,DM,Loan fee:€3.00m,Loan fee:3.00
+Leon Bailey,28,Right Winger,RW,Loan fee:€3.00m,Loan fee:3.00
+Donyell Malen,26,Centre-Forward,CF,Loan fee:€2.00m,Loan fee:2.00
+Yasin Özcan,19,Left-Back,LB,Loan fee:€700k,Loan fee:700
+Leander Dendoncker,30,Defensive Midfield,DM,free transfer,0
+Álex Moreno,32,Left-Back,LB,free transfer,0
+Robin Olsen,35,Goalkeeper,GK,free transfer,0
+Philippe Coutinho,33,Attacking Midfield,AM,free transfer,0
+Lewis Dobbin,22,Left Winger,LW,loan transfer,0
+Filip Marschall,22,Goalkeeper,GK,?,?
+Samuel Iling-Junior,22,Left Midfield,LM,loan transfer,0
+Samuel Iling-Junior,21,Left Midfield,LM,loan transfer,0
+Yasin Özcan,19,Left-Back,LB,loan transfer,0
+Evann Guessand,24,Right Winger,RW,loan transfer,0
+Oliwier Zych,21,Goalkeeper,GK,loan transfer,0
+Joe Gauci,25,Goalkeeper,GK,loan transfer,0
+Kortney Hause,29,Centre-Back,CB,-,-
+Marcus Rashford,27,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Marco Asensio,29,Attacking Midfield,AM,End of loan30/06/2025,End of loan30/06/2025
+Axel Disasi,27,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Bafodé Diakité,24,Centre-Back,CB,€35.00m,35
+Djordje Petrovic,25,Goalkeeper,GK,€28.90m,28.9
+Rayan,19,Right Winger,RW,€28.50m,28.5
+Ben Gannon-Doak,19,Right Winger,RW,€23.20m,23.2
+Amine Adli,25,Left Winger,LW,€21.00m,21
+Veljko Milosavljevic,18,Centre-Back,CB,€15.00m,15
+Adrien Truffert,23,Left-Back,LB,€13.50m,13.5
+Alex Tóth,20,Central Midfield,CM,€12.00m,12
+Álex Jiménez,20,Right-Back,RB,Loan fee:€1.50m,Loan fee:1.50
+Christos Mandas,24,Goalkeeper,GK,Loan fee:€1.50m,Loan fee:1.50
+Fraser Forster,37,Goalkeeper,GK,-,-
+Junior Kroupi,19,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Max Aarons,25,Right-Back,RB,End of loan30/06/2025,End of loan30/06/2025
+Philip Billing,29,Central Midfield,CM,End of loan30/06/2025,End of loan30/06/2025
+Neto,35,Goalkeeper,GK,End of loan30/06/2025,End of loan30/06/2025
+Jaidon Anthony,25,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Romain Faivre,27,Attacking Midfield,AM,End of loan13/01/2026,End of loan13/01/2026
+Hamed Traoré,25,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Romain Faivre,26,Attacking Midfield,AM,End of loan30/06/2025,End of loan30/06/2025
+Alex Paulsen,22,Goalkeeper,GK,End of loan30/06/2025,End of loan30/06/2025
+Joe Rothwell,30,Central Midfield,CM,End of loan30/06/2025,End of loan30/06/2025
+Antoine Semenyo,26,Right Winger,RW,€72.00m,72
+Ilya Zabarnyi,22,Centre-Back,CB,€63.00m,63
+Dean Huijsen,20,Centre-Back,CB,€62.50m,62.5
+Milos Kerkez,21,Left-Back,LB,€46.90m,46.9
+Dango Ouattara,23,Right Winger,RW,€42.80m,42.8
+Jaidon Anthony,25,Left Winger,LW,€9.50m,9.5
+Philip Billing,29,Central Midfield,CM,€5.00m,5
+Mark Travers,26,Goalkeeper,GK,€4.60m,4.6
+Luis Sinisterra,26,Left Winger,LW,Loan fee:€2.50m,Loan fee:2.50
+Chris Mepham,27,Centre-Back,CB,€1.15m,1.15
+Joe Rothwell,30,Central Midfield,CM,€460k,460
+Neto,36,Goalkeeper,GK,free transfer,0
+Max Aarons,25,Right-Back,RB,loan transfer,0
+Daniel Jebbison,21,Centre-Forward,CF,loan transfer,0
+Romain Faivre,27,Attacking Midfield,AM,loan transfer,0
+Julián Araujo,24,Right-Back,RB,loan transfer,0
+Romain Faivre,27,Attacking Midfield,AM,loan transfer,0
+Alex Paulsen,23,Goalkeeper,GK,loan transfer,0
+Hamed Traoré,25,Left Winger,LW,loan transfer,0
+Will Dennis,25,Goalkeeper,GK,loan transfer,0
+Ben Winterburn,20,Defensive Midfield,DM,loan transfer,0
+Kepa Arrizabalaga,30,Goalkeeper,GK,End of loan30/06/2025,End of loan30/06/2025
+Dango Ouattara,23,Right Winger,RW,€42.80m,42.8
+Antoni Milambo,20,Attacking Midfield,AM,€20.00m,20
+Michael Kayode,20,Right-Back,RB,€17.50m,17.5
+Caoimhín Kelleher,26,Goalkeeper,GK,€14.80m,14.8
+Kaye Furo,18,Centre-Forward,CF,€10.00m,10
+Romelle Donovan,18,Right Winger,RW,€3.60m,3.6
+Jordan Henderson,35,Defensive Midfield,DM,free transfer,0
+Reiss Nelson,25,Left Winger,LW,loan transfer,0
+Josh Dasilva,27,Central Midfield,CM,-,-
+Jayden Meghoma,19,Left-Back,LB,End of loan31/05/2026,End of loan31/05/2026
+Ryan Trevitt,23,Central Midfield,CM,End of loan31/05/2026,End of loan31/05/2026
+Mads Roerslev,26,Right-Back,RB,End of loan30/06/2025,End of loan30/06/2025
+Matthew Cox,23,Goalkeeper,GK,End of loan31/05/2026,End of loan31/05/2026
+Yunus Konak,20,Defensive Midfield,DM,End of loan31/05/2026,End of loan31/05/2026
+Ellery Balcombe,25,Goalkeeper,GK,End of loan30/06/2025,End of loan30/06/2025
+Jayden Meghoma,19,Left-Back,LB,End of loan30/06/2025,End of loan30/06/2025
+Frank Onyeka,28,Central Midfield,CM,End of loan31/05/2026,End of loan31/05/2026
+Frank Onyeka,27,Central Midfield,CM,End of loan30/06/2025,End of loan30/06/2025
+Bryan Mbeumo,25,Right Winger,RW,€75.00m,75
+Yoane Wissa,28,Centre-Forward,CF,€57.70m,57.7
+Christian Nørgaard,31,Defensive Midfield,DM,€11.60m,11.6
+Mark Flekken,32,Goalkeeper,GK,€11.00m,11
+Mads Roerslev,26,Right-Back,RB,€3.46m,3.46
+Ben Winterbottom,23,Goalkeeper,GK,free transfer,0
+Ben Mee,35,Centre-Back,CB,free transfer,0
+Myles Peart-Harris,23,Attacking Midfield,AM,?,?
+Paris Maghoma,24,Central Midfield,CM,?,?
+Matthew Cox,22,Goalkeeper,GK,loan transfer,0
+Yunus Konak,20,Defensive Midfield,DM,loan transfer,0
+Gustavo Nunes,20,Left Winger,LW,loan transfer,0
+Benjamin Arthur,20,Centre-Back,CB,loan transfer,0
+Ji-soo Kim,20,Centre-Back,CB,loan transfer,0
+Josh Dasilva,26,Central Midfield,CM,-,-
+Jayden Meghoma,19,Left-Back,LB,loan transfer,0
+Ryan Trevitt,22,Central Midfield,CM,loan transfer,0
+Frank Onyeka,28,Central Midfield,CM,loan transfer,0
+Michael Kayode,20,Right-Back,RB,End of loan30/06/2025,End of loan30/06/2025
+Charalampos Kostoulas,18,Centre-Forward,CF,€35.00m,35
+Maxim De Cuyper,24,Left-Back,LB,€20.00m,20
+Tom Watson,19,Left Winger,LW,€12.00m,12
+Diego Coppola,21,Centre-Back,CB,€11.00m,11
+Do-young Yoon,18,Right Winger,RW,€2.00m,2
+Pascal Groß,34,Central Midfield,CM,€2.00m,2
+Olivier Boscagli,27,Centre-Back,CB,free transfer,0
+Ibrahim Osman,21,Left Winger,LW,End of loan31/05/2026,End of loan31/05/2026
+Eiran Cashin,24,Centre-Back,CB,End of loan31/05/2026,End of loan31/05/2026
+Matt O'Riley,25,Central Midfield,CM,End of loan02/02/2026,End of loan02/02/2026
+Jeremy Sarmiento,23,Left Winger,LW,End of loan23/01/2026,End of loan23/01/2026
+Jeremy Sarmiento,23,Left Winger,LW,End of loan31/05/2026,End of loan31/05/2026
+Tom Watson,20,Left Winger,LW,End of loan31/05/2026,End of loan31/05/2026
+Carl Rushworth,24,Goalkeeper,GK,End of loan31/05/2026,End of loan31/05/2026
+James Beadle,21,Goalkeeper,GK,End of loan31/05/2026,End of loan31/05/2026
+Facundo Buonanotte,20,Attacking Midfield,AM,End of loan30/06/2025,End of loan30/06/2025
+Ibrahim Osman,20,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Abdallah Sima,24,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Malick Yalcouyé,19,Central Midfield,CM,End of loan30/06/2025,End of loan30/06/2025
+Julio Enciso,21,Attacking Midfield,AM,End of loan30/06/2025,End of loan30/06/2025
+Valentín Barco,20,Central Midfield,CM,End of loan30/06/2025,End of loan30/06/2025
+Stefanos Tzimas,19,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Evan Ferguson,20,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Igor Julio,27,Centre-Back,CB,End of loan27/01/2026,End of loan27/01/2026
+Amario Cozier-Duberry,21,Right Winger,RW,End of loan31/05/2026,End of loan31/05/2026
+Ibrahim Osman,21,Left Winger,LW,End of loan18/01/2026,End of loan18/01/2026
+Do-young Yoon,19,Right Winger,RW,End of loan08/01/2026,End of loan08/01/2026
+Kjell Scherpen,25,Goalkeeper,GK,End of loan30/06/2025,End of loan30/06/2025
+Eiran Cashin,24,Centre-Back,CB,End of loan05/01/2026,End of loan05/01/2026
+Malick Yalcouyé,20,Central Midfield,CM,End of loan31/05/2026,End of loan31/05/2026
+Andrew Moran,22,Attacking Midfield,AM,End of loan31/12/2025,End of loan31/12/2025
+Facundo Buonanotte,21,Attacking Midfield,AM,End of loan14/01/2026,End of loan14/01/2026
+João Pedro,23,Centre-Forward,CF,€63.70m,63.7
+Simon Adingra,23,Left Winger,LW,€24.40m,24.4
+Pervis Estupiñán,27,Left-Back,LB,€17.00m,17
+Valentín Barco,20,Central Midfield,CM,€10.00m,10
+Julio Enciso,21,Attacking Midfield,AM,€9.50m,9.5
+Abdallah Sima,24,Left Winger,LW,€4.50m,4.5
+Tariq Lamptey,24,Right-Back,RB,€3.00m,3
+Evan Ferguson,20,Centre-Forward,CF,Loan fee:€3.00m,Loan fee:3.00
+Facundo Buonanotte,20,Attacking Midfield,AM,Loan fee:€2.30m,Loan fee:2.30
+Kjell Scherpen,25,Goalkeeper,GK,€2.00m,2
+Matt O'Riley,24,Central Midfield,CM,Loan fee:€2.00m,Loan fee:2.00
+Odeluga Offiah,22,Centre-Back,CB,€1.60m,1.6
+Andrew Moran,22,Attacking Midfield,AM,€1.15m,1.15
+Brajan Gruda,21,Attacking Midfield,AM,Loan fee:€1.00m,Loan fee:1.00
+Eiran Cashin,23,Centre-Back,CB,loan transfer,0
+Eiran Cashin,24,Centre-Back,CB,loan transfer,0
+Carl Rushworth,24,Goalkeeper,GK,loan transfer,0
+Andrew Moran,21,Attacking Midfield,AM,loan transfer,0
+Jeremy Sarmiento,23,Left Winger,LW,loan transfer,0
+Igor Julio,27,Centre-Back,CB,loan transfer,0
+Do-young Yoon,18,Right Winger,RW,loan transfer,0
+Tom Watson,19,Left Winger,LW,loan transfer,0
+Diego Coppola,22,Centre-Back,CB,loan transfer,0
+Jeremy Sarmiento,23,Left Winger,LW,loan transfer,0
+James Beadle,20,Goalkeeper,GK,loan transfer,0
+Amario Cozier-Duberry,20,Right Winger,RW,loan transfer,0
+Ibrahim Osman,21,Left Winger,LW,loan transfer,0
+Ibrahim Osman,20,Left Winger,LW,loan transfer,0
+Facundo Buonanotte,21,Attacking Midfield,AM,loan transfer,0
+Do-young Yoon,19,Right Winger,RW,loan transfer,0
+Malick Yalcouyé,19,Central Midfield,CM,loan transfer,0
+Lesley Ugochukwu,21,Defensive Midfield,DM,€28.70m,28.7
+Armando Broja,23,Centre-Forward,CF,€23.00m,23
+Loum Tchaouna,21,Right Winger,RW,€15.15m,15.15
+Bashir Humphreys,22,Centre-Back,CB,€14.00m,14
+Quilindschy Hartman,23,Left-Back,LB,€10.00m,10
+Marcus Edwards,26,Right Winger,RW,€10.00m,10
+Jaidon Anthony,25,Left Winger,LW,€9.50m,9.5
+Zian Flemming,26,Centre-Forward,CF,€8.30m,8.3
+Max Weiß,21,Goalkeeper,GK,€4.00m,4
+Jacob Bruun Larsen,26,Left Winger,LW,€4.00m,4
+Florentino,26,Defensive Midfield,DM,Loan fee:€2.00m,Loan fee:2.00
+Axel Tuanzebe,27,Centre-Back,CB,free transfer,0
+Martin Dúbravka,36,Goalkeeper,GK,?,?
+Kyle Walker,35,Right-Back,RB,?,?
+James Ward-Prowse,31,Central Midfield,CM,loan transfer,0
+Michael Obafemi,25,Centre-Forward,CF,End of loan20/01/2026,End of loan20/01/2026
+Michael Obafemi,25,Centre-Forward,CF,End of loan31/05/2026,End of loan31/05/2026
+Luca Koleosho,21,Right Winger,RW,End of loan08/01/2026,End of loan08/01/2026
+Darko Churlinov,24,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Manuel Benson,28,Right Winger,RW,End of loan28/01/2026,End of loan28/01/2026
+Aaron Ramsey,23,Attacking Midfield,AM,End of loan31/05/2026,End of loan31/05/2026
+Zeki Amdouni,24,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Oluwaseun Adewumi,20,Attacking Midfield,AM,End of loan30/06/2025,End of loan30/06/2025
+Andréas Hountondji,22,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Han-Noah Massengo,23,Central Midfield,CM,End of loan30/06/2025,End of loan30/06/2025
+Hjalmar Ekdal,26,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Owen Dodgson,23,Left-Back,LB,End of loan31/05/2026,End of loan31/05/2026
+Hannes Delcroix,26,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+James Trafford,22,Goalkeeper,GK,€31.20m,31.2
+Han-Noah Massengo,24,Central Midfield,CM,€3.00m,3
+Dara Costelloe,22,Left Winger,LW,€400k,400
+Andréas Hountondji,22,Centre-Forward,CF,Loan fee:€400k,Loan fee:400
+Jonjo Shelvey,33,Central Midfield,CM,free transfer,0
+CJ Egan-Riley,22,Centre-Back,CB,free transfer,0
+Etienne Green,25,Goalkeeper,GK,free transfer,0
+Josh Brownhill,29,Central Midfield,CM,free transfer,0
+Hannes Delcroix,26,Centre-Back,CB,free transfer,0
+Darko Churlinov,25,Left Winger,LW,?,?
+Manuel Benson,28,Right Winger,RW,?,?
+Aaron Ramsey,22,Attacking Midfield,AM,loan transfer,0
+Oliver Sonne,25,Right-Back,RB,loan transfer,0
+Owen Dodgson,22,Left-Back,LB,loan transfer,0
+Michael Obafemi,25,Centre-Forward,CF,loan transfer,0
+Michael Obafemi,25,Centre-Forward,CF,loan transfer,0
+Luca Koleosho,21,Right Winger,RW,loan transfer,0
+Oluwaseun Adewumi,20,Attacking Midfield,AM,loan transfer,0
+Shurandy Sambo,23,Right-Back,RB,loan transfer,0
+Luca Koleosho,20,Right Winger,RW,loan transfer,0
+Nathan Redmond,31,Right Winger,RW,-,-
+Manuel Benson,28,Right Winger,RW,loan transfer,0
+Bashir Humphreys,22,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Jaidon Anthony,25,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Zian Flemming,26,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Marcus Edwards,26,Right Winger,RW,End of loan30/06/2025,End of loan30/06/2025
+João Pedro,23,Centre-Forward,CF,€63.70m,63.7
+Jamie Gittens,20,Left Winger,LW,€56.00m,56
+Alejandro Garnacho,21,Left Winger,LW,€46.20m,46.2
+Estêvão,18,Right Winger,RW,€45.00m,45
+Jorrel Hato,19,Left-Back,LB,€44.18m,44.18
+Liam Delap,22,Centre-Forward,CF,€35.50m,35.5
+Dário Essugo,20,Defensive Midfield,DM,€22.27m,22.27
+Mamadou Sarr,19,Centre-Back,CB,€14.00m,14
+Kendry Páez,18,Attacking Midfield,AM,€10.00m,10
+Facundo Buonanotte,20,Attacking Midfield,AM,Loan fee:€2.30m,Loan fee:2.30
+João Félix,25,Second Striker,SS,End of loan30/06/2025,End of loan30/06/2025
+Mamadou Sarr,20,Centre-Back,CB,End of loan02/02/2026,End of loan02/02/2026
+Marc Guiu,19,Centre-Forward,CF,End of loan01/09/2025,End of loan01/09/2025
+Aarón Anselmino,20,Centre-Back,CB,End of loan26/01/2026,End of loan26/01/2026
+David Datro Fofana,23,Centre-Forward,CF,End of loan21/01/2026,End of loan21/01/2026
+Alfie Gilchrist,21,Right-Back,RB,End of loan30/06/2025,End of loan30/06/2025
+Lesley Ugochukwu,21,Defensive Midfield,DM,End of loan30/06/2025,End of loan30/06/2025
+Bashir Humphreys,22,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Armando Broja,23,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Kendry Páez,18,Attacking Midfield,AM,End of loan29/01/2026,End of loan29/01/2026
+Mike Penders,19,Goalkeeper,GK,End of loan01/06/2025,End of loan01/06/2025
+Kepa Arrizabalaga,30,Goalkeeper,GK,End of loan30/06/2025,End of loan30/06/2025
+Djordje Petrovic,25,Goalkeeper,GK,End of loan30/06/2025,End of loan30/06/2025
+Renato Veiga,21,Centre-Back,CB,End of loan10/06/2025,End of loan10/06/2025
+Raheem Sterling,30,Right Winger,RW,End of loan30/06/2025,End of loan30/06/2025
+Axel Disasi,27,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Ben Chilwell,28,Left-Back,LB,End of loan30/06/2025,End of loan30/06/2025
+Carney Chukwuemeka,21,Central Midfield,CM,End of loan06/07/2025,End of loan06/07/2025
+Caleb Wiley,21,Left-Back,LB,End of loan09/01/2026,End of loan09/01/2026
+Noni Madueke,23,Right Winger,RW,€56.00m,56
+Christopher Nkunku,27,Centre-Forward,CF,€37.00m,37
+João Félix,25,Second Striker,SS,€30.00m,30
+Djordje Petrovic,25,Goalkeeper,GK,€28.90m,28.9
+Lesley Ugochukwu,21,Defensive Midfield,DM,€28.70m,28.7
+Kiernan Dewsbury-Hall,26,Central Midfield,CM,€28.65m,28.65
+Renato Veiga,22,Centre-Back,CB,€24.50m,24.5
+Armando Broja,23,Centre-Forward,CF,€23.00m,23
+Carney Chukwuemeka,21,Central Midfield,CM,€20.00m,20
+Nicolas Jackson,24,Centre-Forward,CF,Loan fee:€16.50m,Loan fee:16.50
+Mathis Amougou,19,Central Midfield,CM,€14.50m,14.5
+Bashir Humphreys,22,Centre-Back,CB,€14.00m,14
+Kepa Arrizabalaga,30,Goalkeeper,GK,€5.80m,5.8
+Marcus Bettinelli,33,Goalkeeper,GK,€2.40m,2.4
+Alfie Gilchrist,21,Right-Back,RB,€2.30m,2.3
+Axel Disasi,27,Centre-Back,CB,Loan fee:€2.00m,Loan fee:2.00
+Ben Chilwell,28,Left-Back,LB,free transfer,0
+Lucas Bergström,22,Goalkeeper,GK,free transfer,0
+Mamadou Sarr,19,Centre-Back,CB,loan transfer,0
+Tyrique George,19,Left Winger,LW,loan transfer,0
+David Datro Fofana,23,Centre-Forward,CF,loan transfer,0
+Aarón Anselmino,20,Centre-Back,CB,loan transfer,0
+Marc Guiu,19,Centre-Forward,CF,loan transfer,0
+Kendry Páez,18,Attacking Midfield,AM,loan transfer,0
+David Datro Fofana,22,Centre-Forward,CF,loan transfer,0
+Aarón Anselmino,20,Centre-Back,CB,loan transfer,0
+Kendry Páez,18,Attacking Midfield,AM,loan transfer,0
+Mike Penders,19,Goalkeeper,GK,loan transfer,0
+Raheem Sterling,31,Right Winger,RW,-,-
+Facundo Buonanotte,21,Attacking Midfield,AM,End of loan14/01/2026,End of loan14/01/2026
+Jadon Sancho,25,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Jørgen Strand Larsen,25,Centre-Forward,CF,€49.70m,49.7
+Brennan Johnson,24,Right Winger,RW,€40.00m,40
+Yéremy Pino,22,Right Winger,RW,€30.00m,30
+Jaydee Canvot,19,Centre-Back,CB,€23.00m,23
+Borna Sosa,27,Left-Back,LB,€2.30m,2.3
+Walter Benítez,32,Goalkeeper,GK,free transfer,0
+Evann Guessand,24,Right Winger,RW,loan transfer,0
+Christantus Uche,22,Centre-Forward,CF,loan transfer,0
+Odsonne Édouard,27,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Jesurun Rak-Sakyi,23,Right Winger,RW,End of loan31/05/2026,End of loan31/05/2026
+Romain Esse,21,Right Winger,RW,End of loan31/05/2026,End of loan31/05/2026
+Naouirou Ahamada,23,Central Midfield,CM,End of loan30/06/2025,End of loan30/06/2025
+Jesurun Rak-Sakyi,23,Right Winger,RW,End of loan10/01/2026,End of loan10/01/2026
+Luke Plange,22,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Rob Holding,29,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Jeffrey Schlupp,32,Left Midfield,LM,End of loan30/06/2025,End of loan30/06/2025
+Jesurun Rak-Sakyi,22,Right Winger,RW,End of loan30/06/2025,End of loan30/06/2025
+David Ozoh,21,Defensive Midfield,DM,End of loan31/05/2026,End of loan31/05/2026
+Owen Goodman,22,Goalkeeper,GK,End of loan08/01/2026,End of loan08/01/2026
+Eberechi Eze,27,Attacking Midfield,AM,€69.30m,69.3
+Marc Guéhi,25,Centre-Back,CB,€23.00m,23
+Odsonne Édouard,27,Centre-Forward,CF,€3.70m,3.7
+Malcolm Ebiowei,21,Right Winger,RW,€1.15m,1.15
+Naouirou Ahamada,23,Central Midfield,CM,free transfer,0
+Luke Plange,22,Centre-Forward,CF,free transfer,0
+Jeffrey Schlupp,32,Left Midfield,LM,free transfer,0
+Rob Holding,29,Centre-Back,CB,free transfer,0
+Owen Goodman,21,Goalkeeper,GK,loan transfer,0
+Romain Esse,20,Right Winger,RW,loan transfer,0
+Jesurun Rak-Sakyi,22,Right Winger,RW,loan transfer,0
+Owen Goodman,22,Goalkeeper,GK,loan transfer,0
+Matheus França,21,Attacking Midfield,AM,loan transfer,0
+David Ozoh,20,Defensive Midfield,DM,loan transfer,0
+Joel Ward,35,Right-Back,RB,-,-
+Jesurun Rak-Sakyi,23,Right Winger,RW,loan transfer,0
+Matt Turner,31,Goalkeeper,GK,End of loan30/06/2025,End of loan30/06/2025
+Ben Chilwell,28,Left-Back,LB,End of loan30/06/2025,End of loan30/06/2025
+Tyler Dibling,19,Right Winger,RW,€40.50m,40.5
+Thierno Barry,22,Centre-Forward,CF,€30.00m,30
+Kiernan Dewsbury-Hall,26,Central Midfield,CM,€28.65m,28.65
+Carlos Alcaraz,22,Central Midfield,CM,€15.00m,15
+Adam Aznou,19,Left-Back,LB,€9.00m,9
+Mark Travers,26,Goalkeeper,GK,€4.60m,4.6
+Merlin Röhl,23,Attacking Midfield,AM,Loan fee:€2.00m,Loan fee:2.00
+Tom King,30,Goalkeeper,GK,?,?
+Jack Grealish,29,Left Winger,LW,loan transfer,0
+Tyrique George,19,Left Winger,LW,loan transfer,0
+Harrison Armstrong,18,Central Midfield,CM,End of loan30/06/2025,End of loan30/06/2025
+Mason Holgate,28,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Tyler Onyango,23,Central Midfield,CM,End of loan31/05/2026,End of loan31/05/2026
+Billy Crellin,25,Goalkeeper,GK,End of loan30/06/2025,End of loan30/06/2025
+Neal Maupay,28,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Harrison Armstrong,18,Central Midfield,CM,End of loan01/01/2026,End of loan01/01/2026
+Harry Tyrer,23,Goalkeeper,GK,End of loan30/06/2025,End of loan30/06/2025
+Youssef Chermiti,21,Centre-Forward,CF,€8.60m,8.6
+Neal Maupay,28,Centre-Forward,CF,€4.00m,4
+Asmir Begovic,38,Goalkeeper,GK,free transfer,0
+João Virgínia,25,Goalkeeper,GK,free transfer,0
+Mason Holgate,28,Centre-Back,CB,free transfer,0
+Abdoulaye Doucouré,32,Attacking Midfield,AM,free transfer,0
+Ashley Young,40,Right-Back,RB,free transfer,0
+Dominic Calvert-Lewin,28,Centre-Forward,CF,free transfer,0
+Harry Tyrer,24,Goalkeeper,GK,?,?
+Tyler Onyango,22,Central Midfield,CM,loan transfer,0
+Harrison Armstrong,18,Central Midfield,CM,loan transfer,0
+Billy Crellin,25,Goalkeeper,GK,-,-
+Carlos Alcaraz,22,Central Midfield,CM,End of loan30/06/2025,End of loan30/06/2025
+Jack Grealish,30,Left Winger,LW,End of loan30/06/2026,End of loan30/06/2026
+Armando Broja,23,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Orel Mangala,27,Defensive Midfield,DM,End of loan30/06/2025,End of loan30/06/2025
+Jesper Lindstrøm,25,Right Winger,RW,End of loan30/06/2025,End of loan30/06/2025
+Jack Harrison,28,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Kevin,22,Left Winger,LW,€40.00m,40
+Oscar Bobb,22,Right Winger,RW,€31.20m,31.2
+Jonah Kusi-Asare,18,Centre-Forward,CF,Loan fee:€4.00m,Loan fee:4.00
+Benjamin Lecomte,34,Goalkeeper,GK,€500k,500
+Samuel Chukwueze,26,Right Winger,RW,loan transfer,0
+Luke Harris,20,Attacking Midfield,AM,End of loan07/01/2026,End of loan07/01/2026
+Steven Benda,27,Goalkeeper,GK,End of loan12/01/2026,End of loan12/01/2026
+Luke Harris,21,Attacking Midfield,AM,End of loan31/05/2026,End of loan31/05/2026
+Luke Harris,20,Attacking Midfield,AM,End of loan30/06/2025,End of loan30/06/2025
+Andreas Pereira,29,Central Midfield,CM,€10.00m,10
+Martial Godo,22,Left Winger,LW,€7.00m,7
+Adama Traoré,30,Right Winger,RW,€2.30m,2.3
+Carlos Vinícius,30,Centre-Forward,CF,free transfer,0
+Steven Benda,27,Goalkeeper,GK,loan transfer,0
+Luke Harris,20,Attacking Midfield,AM,loan transfer,0
+Steven Benda,26,Goalkeeper,GK,loan transfer,0
+Willian,36,Left Winger,LW,-,-
+Luke Harris,20,Attacking Midfield,AM,loan transfer,0
+Reiss Nelson,25,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Anton Stach,26,Defensive Midfield,DM,€20.00m,20
+Noah Okafor,25,Left Winger,LW,€19.00m,19
+Jaka Bijol,26,Centre-Back,CB,€18.00m,18
+Lucas Perri,27,Goalkeeper,GK,€16.00m,16
+Sean Longstaff,27,Central Midfield,CM,€13.80m,13.8
+Gabriel Gudmundsson,26,Left-Back,LB,€11.60m,11.6
+James Justin,27,Right-Back,RB,€9.30m,9.3
+Sebastiaan Bornauw,26,Centre-Back,CB,€6.00m,6
+Lukas Nmecha,26,Centre-Forward,CF,free transfer,0
+Dominic Calvert-Lewin,28,Centre-Forward,CF,free transfer,0
+Facundo Buonanotte,21,Attacking Midfield,AM,loan transfer,0
+Rasmus Kristensen,27,Right-Back,RB,End of loan30/06/2025,End of loan30/06/2025
+Charlie Crew,19,Defensive Midfield,DM,End of loan01/01/2026,End of loan01/01/2026
+Sam Greenwood,23,Attacking Midfield,AM,End of loan30/06/2025,End of loan30/06/2025
+Joe Gelhardt,23,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Jack Harrison,28,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Rasmus Kristensen,27,Right-Back,RB,€6.00m,6
+Jack Harrison,29,Left Winger,LW,Loan fee:€1.00m,Loan fee:1.00
+Junior Firpo,28,Left-Back,LB,free transfer,0
+Darko Gyabi,21,Central Midfield,CM,free transfer,0
+Sam Greenwood,23,Attacking Midfield,AM,free transfer,0
+Joe Gelhardt,23,Centre-Forward,CF,loan transfer,0
+Maximilian Wöber,27,Centre-Back,CB,loan transfer,0
+Largie Ramazani,24,Left Winger,LW,loan transfer,0
+Isaac Schmidt,25,Left-Back,LB,loan transfer,0
+Mateo Joseph,21,Centre-Forward,CF,loan transfer,0
+Patrick Bamford,31,Centre-Forward,CF,-,-
+Josuha Guilavogui,34,Defensive Midfield,DM,-,-
+Charlie Crew,19,Defensive Midfield,DM,loan transfer,0
+Joe Rothwell,30,Central Midfield,CM,End of loan30/06/2025,End of loan30/06/2025
+Manor Solomon,25,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Alexander Isak,25,Centre-Forward,CF,€145.00m,145
+Florian Wirtz,22,Attacking Midfield,AM,€125.00m,125
+Hugo Ekitiké,23,Centre-Forward,CF,€95.00m,95
+Milos Kerkez,21,Left-Back,LB,€46.90m,46.9
+Jeremie Frimpong,24,Right-Back,RB,€40.00m,40
+Giovanni Leoni,18,Centre-Back,CB,€31.00m,31
+Freddie Woodman,28,Goalkeeper,GK,free transfer,0
+Harvey Davies,22,Goalkeeper,GK,End of loan02/02/2026,End of loan02/02/2026
+Rhys Williams,24,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Stefan Bajcetic,20,Defensive Midfield,DM,End of loan30/06/2025,End of loan30/06/2025
+Ben Gannon-Doak,19,Right Winger,RW,End of loan30/06/2025,End of loan30/06/2025
+Nat Phillips,28,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Giorgi Mamardashvili,24,Goalkeeper,GK,End of loan30/06/2025,End of loan30/06/2025
+Luis Díaz,28,Left Winger,LW,€70.00m,70
+Darwin Núñez,26,Centre-Forward,CF,€53.00m,53
+Jarell Quansah,22,Centre-Back,CB,€35.00m,35
+Ben Gannon-Doak,19,Right Winger,RW,€23.20m,23.2
+Caoimhín Kelleher,26,Goalkeeper,GK,€14.80m,14.8
+Trent Alexander-Arnold,26,Right-Back,RB,€10.00m,10
+Tyler Morton,22,Defensive Midfield,DM,€10.00m,10
+Nat Phillips,28,Centre-Back,CB,€3.50m,3.5
+Harvey Davies,21,Goalkeeper,GK,loan transfer,0
+Konstantinos Tsimikas,29,Left-Back,LB,loan transfer,0
+Harvey Elliott,22,Attacking Midfield,AM,loan transfer,0
+Vitezslav Jaros,23,Goalkeeper,GK,loan transfer,0
+Antoine Semenyo,26,Right Winger,RW,€72.00m,72
+Tijjani Reijnders,26,Central Midfield,CM,€54.90m,54.9
+Rayan Aït-Nouri,24,Left-Back,LB,€36.80m,36.8
+Rayan Cherki,21,Attacking Midfield,AM,€36.50m,36.5
+James Trafford,22,Goalkeeper,GK,€31.20m,31.2
+Gianluigi Donnarumma,26,Goalkeeper,GK,€30.00m,30
+Marc Guéhi,25,Centre-Back,CB,€23.00m,23
+Sverre Nypan,18,Central Midfield,CM,€15.00m,15
+Marcus Bettinelli,33,Goalkeeper,GK,€2.40m,2.4
+Sverre Nypan,19,Central Midfield,CM,End of loan02/02/2026,End of loan02/02/2026
+Yan Couto,23,Right Midfield,RM,End of loan30/06/2025,End of loan30/06/2025
+Kalvin Phillips,30,Defensive Midfield,DM,End of loan31/05/2026,End of loan31/05/2026
+Claudio Echeverri,19,Attacking Midfield,AM,End of loan31/12/2025,End of loan31/12/2025
+Jack Grealish,30,Left Winger,LW,End of loan30/06/2026,End of loan30/06/2026
+Juma Bah,19,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Kyle Walker,35,Right-Back,RB,End of loan30/06/2025,End of loan30/06/2025
+Josh Wilson-Esbrand,22,Left-Back,LB,End of loan30/06/2025,End of loan30/06/2025
+Issa Kaboré,24,Right-Back,RB,End of loan30/06/2025,End of loan30/06/2025
+Máximo Perrone,22,Defensive Midfield,DM,End of loan30/06/2025,End of loan30/06/2025
+Kalvin Phillips,29,Defensive Midfield,DM,End of loan30/06/2025,End of loan30/06/2025
+Oscar Bobb,22,Right Winger,RW,€31.20m,31.2
+James McAtee,22,Attacking Midfield,AM,€25.50m,25.5
+Yan Couto,23,Right Midfield,RM,€20.00m,20
+Máximo Perrone,22,Defensive Midfield,DM,€13.00m,13
+Ederson,32,Goalkeeper,GK,€11.00m,11
+Manuel Akanji,30,Centre-Back,CB,Loan fee:€1.00m,Loan fee:1.00
+Stefan Ortega,33,Goalkeeper,GK,€580k,580
+Kevin De Bruyne,34,Attacking Midfield,AM,free transfer,0
+İlkay Gündoğan,34,Central Midfield,CM,free transfer,0
+Claudio Echeverri,20,Attacking Midfield,AM,loan transfer,0
+Kyle Walker,35,Right-Back,RB,?,?
+Issa Kaboré,24,Right-Back,RB,loan transfer,0
+Claudio Echeverri,19,Attacking Midfield,AM,loan transfer,0
+Josh Wilson-Esbrand,22,Left-Back,LB,loan transfer,0
+Sverre Nypan,18,Central Midfield,CM,loan transfer,0
+Jack Grealish,29,Left Winger,LW,loan transfer,0
+Vitor Reis,19,Centre-Back,CB,loan transfer,0
+Juma Bah,19,Centre-Back,CB,loan transfer,0
+Kalvin Phillips,30,Defensive Midfield,DM,loan transfer,0
+Scott Carson,39,Goalkeeper,GK,-,-
+Benjamin Sesko,22,Centre-Forward,CF,€76.50m,76.5
+Bryan Mbeumo,25,Right Winger,RW,€75.00m,75
+Matheus Cunha,26,Centre-Forward,CF,€74.20m,74.2
+Senne Lammens,23,Goalkeeper,GK,€21.00m,21
+Diego León,18,Left-Back,LB,€4.00m,4
+Ethan Wheatley,20,Centre-Forward,CF,End of loan31/05/2026,End of loan31/05/2026
+Harry Amass,18,Left-Back,LB,End of loan23/01/2026,End of loan23/01/2026
+Jadon Sancho,25,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Ethan Wheatley,19,Centre-Forward,CF,End of loan12/01/2026,End of loan12/01/2026
+Toby Collyer,21,Defensive Midfield,DM,End of loan01/01/2026,End of loan01/01/2026
+Tyrell Malacia,25,Left-Back,LB,End of loan30/06/2025,End of loan30/06/2025
+Marcus Rashford,27,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Antony,25,Right Winger,RW,End of loan30/06/2025,End of loan30/06/2025
+Alejandro Garnacho,21,Left Winger,LW,€46.20m,46.2
+Antony,25,Right Winger,RW,€22.00m,22
+Rasmus Højlund,22,Centre-Forward,CF,Loan fee:€6.00m,Loan fee:6.00
+Victor Lindelöf,31,Centre-Back,CB,free transfer,0
+André Onana,29,Goalkeeper,GK,loan transfer,0
+Ethan Wheatley,19,Centre-Forward,CF,loan transfer,0
+Marcus Rashford,27,Left Winger,LW,loan transfer,0
+Toby Collyer,21,Defensive Midfield,DM,loan transfer,0
+Harry Amass,18,Left-Back,LB,loan transfer,0
+Toby Collyer,22,Defensive Midfield,DM,loan transfer,0
+Harry Amass,18,Left-Back,LB,loan transfer,0
+Jadon Sancho,25,Left Winger,LW,loan transfer,0
+Christian Eriksen,33,Attacking Midfield,AM,-,-
+Jonny Evans,37,Centre-Back,CB,-,-
+Ethan Wheatley,20,Centre-Forward,CF,loan transfer,0
+Nick Woltemade,23,Centre-Forward,CF,€75.00m,75
+Anthony Elanga,23,Right Winger,RW,€61.40m,61.4
+Yoane Wissa,28,Centre-Forward,CF,€57.70m,57.7
+Jacob Ramsey,24,Central Midfield,CM,€45.15m,45.15
+Malick Thiaw,24,Centre-Back,CB,€35.00m,35
+Aaron Ramsdale,27,Goalkeeper,GK,Loan fee:€4.60m,Loan fee:4.60
+Antoñito Cordero,18,Left Winger,LW,free transfer,0
+Isaac Hayden,30,Defensive Midfield,DM,End of loan30/06/2025,End of loan30/06/2025
+Matt Targett,30,Left-Back,LB,End of loan31/05/2026,End of loan31/05/2026
+Antoñito Cordero,19,Left Winger,LW,End of loan31/12/2025,End of loan31/12/2025
+Joe White,23,Attacking Midfield,AM,End of loan05/01/2026,End of loan05/01/2026
+Harrison Ashby,24,Right-Back,RB,End of loan31/05/2026,End of loan31/05/2026
+Joe White,23,Attacking Midfield,AM,End of loan31/05/2026,End of loan31/05/2026
+Lloyd Kelly,26,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Alexander Isak,25,Centre-Forward,CF,€145.00m,145
+Lloyd Kelly,26,Centre-Back,CB,€17.20m,17.2
+Sean Longstaff,27,Central Midfield,CM,€13.80m,13.8
+Jamaal Lascelles,32,Centre-Back,CB,free transfer,0
+Callum Wilson,33,Centre-Forward,CF,free transfer,0
+Isaac Hayden,30,Defensive Midfield,DM,free transfer,0
+Joe White,23,Attacking Midfield,AM,loan transfer,0
+Harrison Ashby,24,Right-Back,RB,loan transfer,0
+Martin Dúbravka,36,Goalkeeper,GK,?,?
+Odysseas Vlachodimos,31,Goalkeeper,GK,loan transfer,0
+Antoñito Cordero,18,Left Winger,LW,loan transfer,0
+Antoñito Cordero,19,Left Winger,LW,loan transfer,0
+Joe White,22,Attacking Midfield,AM,loan transfer,0
+Jamal Lewis,27,Left-Back,LB,-,-
+Matt Targett,29,Left-Back,LB,loan transfer,0
+Omari Hutchinson,21,Attacking Midfield,AM,€43.40m,43.4
+Dan Ndoye,24,Right Winger,RW,€42.00m,42
+Dilane Bakwa,23,Right Winger,RW,€35.00m,35
+Arnaud Kalimuendo,23,Centre-Forward,CF,€30.00m,30
+James McAtee,22,Attacking Midfield,AM,€25.50m,25.5
+Igor Jesus,24,Centre-Forward,CF,€19.00m,19
+Nicolò Savona,22,Right-Back,RB,€13.00m,13
+Jair Cunha,20,Centre-Back,CB,€12.00m,12
+John Victor,29,Goalkeeper,GK,€8.00m,8
+Cuiabano,22,Left-Back,LB,€6.00m,6
+Douglas Luiz,27,Central Midfield,CM,Loan fee:€2.85m,Loan fee:2.85
+Luca Netz,22,Left-Back,LB,€2.50m,2.5
+Lorenzo Lucca,25,Centre-Forward,CF,Loan fee:€2.00m,Loan fee:2.00
+Stefan Ortega,33,Goalkeeper,GK,€580k,580
+Angus Gunn,29,Goalkeeper,GK,free transfer,0
+Oleksandr Zinchenko,28,Left-Back,LB,loan transfer,0
+Tyler Bindon,20,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Eric da Silva Moreira,19,Right-Back,RB,End of loan14/01/2026,End of loan14/01/2026
+Andrew Omobamidele,23,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Cuiabano,22,Left-Back,LB,End of loan31/12/2025,End of loan31/12/2025
+Matt Turner,31,Goalkeeper,GK,End of loan30/06/2025,End of loan30/06/2025
+David Carmo,25,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Omar Richards,27,Left-Back,LB,End of loan30/06/2025,End of loan30/06/2025
+Jonathan Panzo,24,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Marko Stamenić,23,Central Midfield,CM,End of loan30/06/2025,End of loan30/06/2025
+Anthony Elanga,23,Right Winger,RW,€61.40m,61.4
+Danilo,24,Central Midfield,CM,€23.00m,23
+Ramón Sosa,25,Second Striker,SS,€12.50m,12.5
+Andrew Omobamidele,23,Centre-Back,CB,€10.50m,10.5
+Matt Turner,31,Goalkeeper,GK,€8.00m,8
+Carlos Miguel,26,Goalkeeper,GK,€5.50m,5.5
+Lewis O'Brien,26,Central Midfield,CM,€3.50m,3.5
+Jota Silva,26,Left Winger,LW,Loan fee:€2.50m,Loan fee:2.50
+Marko Stamenić,23,Central Midfield,CM,€2.00m,2
+Arnaud Kalimuendo,23,Centre-Forward,CF,Loan fee:€1.50m,Loan fee:1.50
+Jonathan Panzo,24,Centre-Back,CB,free transfer,0
+Josh Bowler,26,Right Winger,RW,free transfer,0
+Harry Toffolo,29,Left-Back,LB,free transfer,0
+Cuiabano,22,Left-Back,LB,loan transfer,0
+Eric da Silva Moreira,19,Right-Back,RB,loan transfer,0
+Cuiabano,22,Left-Back,LB,loan transfer,0
+David Carmo,26,Centre-Back,CB,loan transfer,0
+Tyler Bindon,20,Centre-Back,CB,loan transfer,0
+Emmanuel Dennis,27,Centre-Forward,CF,-,-
+Wayne Hennessey,38,Goalkeeper,GK,-,-
+Omar Richards,27,Left-Back,LB,loan transfer,0
+Douglas Luiz,27,Central Midfield,CM,End of loan27/01/2026,End of loan27/01/2026
+Oleksandr Zinchenko,29,Left-Back,LB,End of loan31/01/2026,End of loan31/01/2026
+Álex Moreno,32,Left-Back,LB,End of loan30/06/2025,End of loan30/06/2025
+Habib Diarra,21,Central Midfield,CM,€31.50m,31.5
+Simon Adingra,23,Left Winger,LW,€24.40m,24.4
+Enzo Le Fée,25,Central Midfield,CM,€23.00m,23
+Brian Brobbey,23,Centre-Forward,CF,€20.00m,20
+Chemsdine Talbi,20,Right Winger,RW,€20.00m,20
+Nilson Angulo,22,Left Winger,LW,€17.34m,17.34
+Noah Sadiki,20,Central Midfield,CM,€17.00m,17
+Granit Xhaka,32,Defensive Midfield,DM,€15.00m,15
+Nordi Mukiele,27,Right-Back,RB,€12.00m,12
+Omar Alderete,28,Centre-Back,CB,€11.60m,11.6
+Robin Roefs,22,Goalkeeper,GK,€10.50m,10.5
+Jocelin Ta Bi,20,Right Winger,RW,€4.00m,4
+Melker Ellborg,22,Goalkeeper,GK,€3.45m,3.45
+Bertrand Traoré,29,Right Winger,RW,€2.90m,2.9
+Arthur Masuaku,31,Left-Back,LB,free transfer,0
+Reinildo Mandava,31,Left-Back,LB,free transfer,0
+Lutsharel Geertruida,25,Right-Back,RB,loan transfer,0
+Marc Guiu,19,Centre-Forward,CF,loan transfer,0
+Timothée Pembélé,22,Right-Back,RB,End of loan30/06/2025,End of loan30/06/2025
+Nectarios Triantis,22,Central Midfield,CM,End of loan30/06/2025,End of loan30/06/2025
+Nazariy Rusyn,26,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Adil Aouchiche,22,Attacking Midfield,AM,End of loan30/06/2025,End of loan30/06/2025
+Abdoullah Ba,21,Right Midfield,RM,End of loan30/06/2025,End of loan30/06/2025
+Luís Semedo,21,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Adil Aouchiche,23,Attacking Midfield,AM,End of loan01/02/2026,End of loan01/02/2026
+Pierre Ekwah,23,Defensive Midfield,DM,End of loan30/06/2025,End of loan30/06/2025
+Milan Aleksic,20,Attacking Midfield,AM,End of loan25/01/2026,End of loan25/01/2026
+Patrick Roberts,28,Right Winger,RW,End of loan01/02/2026,End of loan01/02/2026
+Jobe Bellingham,19,Central Midfield,CM,€30.50m,30.5
+Tom Watson,19,Left Winger,LW,€12.00m,12
+Pierre Ekwah,23,Defensive Midfield,DM,€6.00m,6
+Patrick Roberts,28,Right Winger,RW,€5.10m,5.1
+Nectarios Triantis,22,Central Midfield,CM,€2.50m,2.5
+Simon Adingra,24,Left Winger,LW,Loan fee:€1.00m,Loan fee:1.00
+Adil Aouchiche,23,Attacking Midfield,AM,free transfer,0
+Ian Poveda,26,Right Winger,RW,free transfer,0
+Nathan Bishop,25,Goalkeeper,GK,?,?
+Blondy Nna Noukeu,24,Goalkeeper,GK,?,?
+Joe Anderson,24,Centre-Back,CB,?,?
+Jay Matete,24,Central Midfield,CM,?,?
+Dan Neil,24,Central Midfield,CM,loan transfer,0
+Alan Browne,30,Central Midfield,CM,loan transfer,0
+Arthur Masuaku,32,Left-Back,LB,loan transfer,0
+Aji Alese,25,Centre-Back,CB,loan transfer,0
+Anthony Patterson,25,Goalkeeper,GK,loan transfer,0
+Leo Hjelde,22,Left-Back,LB,loan transfer,0
+Timothée Pembélé,23,Right-Back,RB,loan transfer,0
+Patrick Roberts,28,Right Winger,RW,loan transfer,0
+Niall Huggins,24,Right-Back,RB,loan transfer,0
+Jenson Seelt,22,Centre-Back,CB,loan transfer,0
+Adil Aouchiche,22,Attacking Midfield,AM,loan transfer,0
+Nazariy Rusyn,26,Centre-Forward,CF,loan transfer,0
+Milan Aleksic,20,Attacking Midfield,AM,loan transfer,0
+Zak Johnson,21,Centre-Back,CB,loan transfer,0
+Luís Semedo,22,Centre-Forward,CF,loan transfer,0
+Salis Abdul Samed,25,Defensive Midfield,DM,End of loan30/06/2025,End of loan30/06/2025
+Enzo Le Fée,25,Central Midfield,CM,End of loan30/06/2025,End of loan30/06/2025
+Marc Guiu,19,Centre-Forward,CF,End of loan01/09/2025,End of loan01/09/2025
+Xavi Simons,22,Attacking Midfield,AM,€65.00m,65
+Mohammed Kudus,24,Right Winger,RW,€63.80m,63.8
+Conor Gallagher,25,Central Midfield,CM,€40.00m,40
+Mathys Tel,20,Centre-Forward,CF,€35.00m,35
+Kevin Danso,26,Centre-Back,CB,€25.00m,25
+Souza,19,Left-Back,LB,€15.00m,15
+Luka Vuskovic,18,Centre-Back,CB,€11.00m,11
+Kota Takai,20,Centre-Back,CB,€5.80m,5.8
+João Palhinha,30,Defensive Midfield,DM,Loan fee:€5.00m,Loan fee:5.00
+Randal Kolo Muani,26,Centre-Forward,CF,loan transfer,0
+Manor Solomon,26,Left Winger,LW,End of loan01/01/2026,End of loan01/01/2026
+Dane Scarlett,22,Centre-Forward,CF,End of loan31/05/2026,End of loan31/05/2026
+Min-hyeok Yang,19,Right Winger,RW,End of loan05/01/2026,End of loan05/01/2026
+Min-hyeok Yang,19,Right Winger,RW,End of loan30/06/2025,End of loan30/06/2025
+Alfie Devine,20,Attacking Midfield,AM,End of loan30/06/2025,End of loan30/06/2025
+Manor Solomon,25,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Ashley Phillips,20,Centre-Back,CB,End of loan31/05/2026,End of loan31/05/2026
+Alejo Veliz,21,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Bryan Gil,24,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Pierre-Emile Højbjerg,29,Defensive Midfield,DM,End of loan30/06/2025,End of loan30/06/2025
+Brennan Johnson,24,Right Winger,RW,€40.00m,40
+Heung-min Son,33,Left Winger,LW,€22.00m,22
+Pierre-Emile Højbjerg,29,Defensive Midfield,DM,€13.50m,13.5
+Bryan Gil,24,Left Winger,LW,€6.00m,6
+Luka Vuskovic,18,Centre-Back,CB,Loan fee:€1.00m,Loan fee:1.00
+Kota Takai,21,Centre-Back,CB,Loan fee:€200k,Loan fee:200
+Min-hyeok Yang,19,Right Winger,RW,loan transfer,0
+Alfie Devine,21,Attacking Midfield,AM,loan transfer,0
+Mikey Moore,17,Left Winger,LW,loan transfer,0
+Alejo Veliz,21,Centre-Forward,CF,loan transfer,0
+Manor Solomon,26,Left Winger,LW,loan transfer,0
+Manor Solomon,26,Left Winger,LW,loan transfer,0
+Min-hyeok Yang,19,Right Winger,RW,loan transfer,0
+Dane Scarlett,21,Centre-Forward,CF,loan transfer,0
+Alfie Whiteman,26,Goalkeeper,GK,-,-
+Sergio Reguilón,28,Left-Back,LB,-,-
+Fraser Forster,37,Goalkeeper,GK,-,-
+Mathys Tel,20,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Kevin Danso,26,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Timo Werner,29,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Mateus Fernandes,21,Central Midfield,CM,€44.00m,44
+Jean-Clair Todibo,25,Centre-Back,CB,€40.00m,40
+Taty Castellanos,27,Centre-Forward,CF,€29.00m,29
+Pablo,22,Centre-Forward,CF,€23.00m,23
+El Hadji Malick Diouf,20,Left-Back,LB,€22.00m,22
+Mads Hermansen,25,Goalkeeper,GK,€20.80m,20.8
+Soungoutou Magassa,21,Defensive Midfield,DM,€17.00m,17
+Adama Traoré,30,Right Winger,RW,€2.30m,2.3
+Axel Disasi,27,Centre-Back,CB,Loan fee:€2.00m,Loan fee:2.00
+Callum Wilson,33,Centre-Forward,CF,free transfer,0
+Kyle Walker-Peters,28,Right-Back,RB,free transfer,0
+Keiber Lamadrid,22,Left Winger,LW,loan transfer,0
+Igor Julio,27,Centre-Back,CB,loan transfer,0
+Lukasz Fabianski,40,Goalkeeper,GK,-,-
+Maxwel Cornet,28,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Kurt Zouma,30,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Kaelan Casey,21,Centre-Back,CB,End of loan15/01/2026,End of loan15/01/2026
+Nayef Aguerd,29,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Mohammed Kudus,24,Right Winger,RW,€63.80m,63.8
+Lucas Paquetá,28,Attacking Midfield,AM,€42.00m,42
+Nayef Aguerd,29,Centre-Back,CB,€23.00m,23
+Luís Guilherme,19,Right Winger,RW,€14.00m,14
+Edson Álvarez,27,Defensive Midfield,DM,Loan fee:€2.00m,Loan fee:2.00
+Andrew Irving,25,Central Midfield,CM,€1.50m,1.5
+Emerson,31,Left-Back,LB,€700k,700
+Danny Ings,33,Centre-Forward,CF,free transfer,0
+Vladimír Coufal,32,Right-Back,RB,free transfer,0
+Aaron Cresswell,35,Left-Back,LB,free transfer,0
+Guido Rodríguez,31,Defensive Midfield,DM,free transfer,0
+Kurt Zouma,30,Centre-Back,CB,free transfer,0
+Wes Foderingham,34,Goalkeeper,GK,free transfer,0
+Niclas Füllkrug,32,Centre-Forward,CF,loan transfer,0
+Kaelan Casey,20,Centre-Back,CB,loan transfer,0
+James Ward-Prowse,31,Central Midfield,CM,loan transfer,0
+Kaelan Casey,21,Centre-Back,CB,loan transfer,0
+Callum Marshall,21,Centre-Forward,CF,loan transfer,0
+Maxwel Cornet,28,Left Winger,LW,loan transfer,0
+Lukasz Fabianski,40,Goalkeeper,GK,-,-
+Evan Ferguson,20,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Igor Julio,27,Centre-Back,CB,End of loan27/01/2026,End of loan27/01/2026
+Jean-Clair Todibo,25,Centre-Back,CB,End of loan30/06/2025,End of loan30/06/2025
+Carlos Soler,28,Central Midfield,CM,End of loan30/06/2025,End of loan30/06/2025
+Jørgen Strand Larsen,25,Centre-Forward,CF,€27.00m,27
+Tolu Arokodare,24,Centre-Forward,CF,€26.00m,26
+Fer López,21,Attacking Midfield,AM,€23.00m,23
+Ladislav Krejčí,26,Centre-Back,CB,Loan fee:€22.50m,Loan fee:22.50
+Jhon Arias,27,Right Winger,RW,€17.00m,17
+Jackson Tchatchoua,23,Right-Back,RB,€12.50m,12.5
+David Møller Wolfe,23,Left-Back,LB,€12.00m,12
+Adam Armstrong,28,Centre-Forward,CF,€8.10m,8.1
+Angel Gomes,25,Attacking Midfield,AM,Loan fee:€1.00m,Loan fee:1.00
+Fábio Silva,22,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
+Ki-Jana Hoever,23,Right-Back,RB,End of loan30/06/2025,End of loan30/06/2025
+Tawanda Chirewa,22,Attacking Midfield,AM,End of loan31/05/2026,End of loan31/05/2026
+Hugo Bueno,22,Left-Back,LB,End of loan30/06/2025,End of loan30/06/2025
+Ki-Jana Hoever,24,Right-Back,RB,End of loan31/05/2026,End of loan31/05/2026
+Pedro Lima,19,Right-Back,RB,End of loan31/12/2025,End of loan31/12/2025
+Chiquinho,25,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Nasser Djiga,23,Centre-Back,CB,End of loan31/05/2026,End of loan31/05/2026
+Matheus Cunha,26,Centre-Forward,CF,€74.20m,74.2
+Jørgen Strand Larsen,25,Centre-Forward,CF,€49.70m,49.7
+Rayan Aït-Nouri,24,Left-Back,LB,€36.80m,36.8
+Jhon Arias,28,Right Winger,RW,€25.00m,25
+Fábio Silva,23,Centre-Forward,CF,€22.50m,22.5
+Emmanuel Agbadou,28,Centre-Back,CB,€18.00m,18
+Gonçalo Guedes,28,Left Winger,LW,€4.00m,4
+Nélson Semedo,31,Right-Back,RB,free transfer,0
+Chiquinho,25,Left Winger,LW,free transfer,0
+Pablo Sarabia,33,Attacking Midfield,AM,free transfer,0
+Joe Hodge,22,Defensive Midfield,DM,?,?
+Chem Campbell,22,Left Winger,LW,?,?
+Tom King,30,Goalkeeper,GK,?,?
+Tommy Doyle,23,Central Midfield,CM,loan transfer,0
+Tawanda Chirewa,22,Attacking Midfield,AM,loan transfer,0
+Fer López,21,Attacking Midfield,AM,loan transfer,0
+Marshall Munetsi,29,Central Midfield,CM,loan transfer,0
+Sasa Kalajdzic,28,Centre-Forward,CF,loan transfer,0
+Boubacar Traoré,23,Defensive Midfield,DM,loan transfer,0
+Craig Dawson,35,Centre-Back,CB,-,-
+Pedro Lima,19,Right-Back,RB,loan transfer,0
+Ki-Jana Hoever,23,Right-Back,RB,loan transfer,0
+Nasser Djiga,22,Centre-Back,CB,loan transfer,0
+Carlos Forbs,21,Left Winger,LW,End of loan30/06/2025,End of loan30/06/2025
+Jørgen Strand Larsen,25,Centre-Forward,CF,End of loan30/06/2025,End of loan30/06/2025
